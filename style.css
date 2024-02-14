@@ -13,8 +13,7 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  display: flex;
-  align-items: flex-end;
+  display: flex; 
   justify-content: center;
   min-height: 100vh;
   background-color: var(--dark-color);
@@ -1384,5 +1383,5 @@ body {
 }
 .container * {
   -webkit-animation-play-state: paused !important;
-          animation-play-state: paused !important;
+   animation-play-state: paused !important;
 }
